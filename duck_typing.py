@@ -5,7 +5,7 @@ class MyEditor:
 
 class Enviorment(MyEditor):
     def execute(self):
-        super().__init__()
+        #super().__init__()
         print("Cloud computing")
         print("Enviorment setup")
         print("100 Days of code")

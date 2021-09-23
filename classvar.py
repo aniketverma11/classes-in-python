@@ -12,4 +12,5 @@ class Car:
 
 p1 = Car(5, 6)
 Car.wheel
+p1.wheel()
 print(p1.ml, p1.avg, Car.wheel)
